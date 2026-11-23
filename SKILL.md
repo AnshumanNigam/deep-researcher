@@ -213,19 +213,23 @@ For each important claim intended for the report:
 
 ### Citation integrity
 
-- Cite sources actually accessed during the research.
-- Do not place inline citations, footnote markers, source URLs, or parenthetical source attributions in the body of the report. The user requires all citations and source details to appear together at the end of the report.
-- Ensure the cited material supports the full claim, not merely the general topic.
-- Do not cite a search-result snippet as though the underlying source was read.
-- Do not invent page numbers, section numbers, quotations, authors, publication dates, or URLs.
-- Do not imply that a source independently confirms a claim if it relies on the same underlying source.
-- If only an abstract or excerpt was available, say so when that limitation matters.
-- If a claim is an inference from multiple sources, make the reasoning clear and cite the relevant evidence.
-- If the host environment provides citation objects or a citation format, use them in the final references section, not inline in the report body.
-- At the end of the report, include a **References and source map** section containing the full source details and working links.
-- Number the references in that end section. For each source, briefly identify the report section, finding, or material claims it supports. This source map must make the evidence traceable without inserting citation markers into the body.
-- If a source supports several findings, list all relevant sections or findings in its source-map entry.
-- Do not include a references list at the beginning or intersperse references throughout the report.
+Citations must make the evidence behind material claims easy to locate and verify.
+
+1. **Use inline citations.** Place citations immediately after the factual claim, statistic, quotation, or interpretation they support.
+2. Use numbered citations in square brackets, such as `[1]` or `[1, 2]`. Assign each unique source a reference number and use that number consistently throughout the report.
+3. Cite sources actually accessed during the research. Never cite a search-result snippet as though the underlying source was read.
+4. Ensure each citation supports the specific claim it accompanies, not merely the general topic.
+5. Place citations as close as possible to the supported statement. If a paragraph contains several claims supported by different sources, cite each claim separately.
+6. Cite tables, charts, figures, and quantitative comparisons. Put citations in the relevant table cells, captions, or source notes.
+7. Do not invent page numbers, section numbers, quotations, authors, publication dates, or URLs.
+8. If only an abstract, excerpt, or secondary account was available, disclose that limitation when relevant.
+9. If a claim is an inference from multiple sources, cite the underlying evidence and make the reasoning explicit. Do not imply that sources directly state an inference they do not make.
+10. Distinguish independent sources from publications repeating the same underlying evidence.
+11. Use a consistent citation style throughout the report. Follow a user-requested academic style such as APA, IEEE, or Vancouver when specified. Otherwise, use numbered citations.
+12. At the end of the report, include a complete **References** section containing the full bibliographic details and working links for every cited source.
+13. Add a concise **Source map** after the references when useful, identifying which major sections, findings, tables, or metrics each source supports.
+14. Verify that every inline citation has a matching reference entry and that every reference entry is cited in the report.
+15. Never use a reference entry as a substitute for an inline citation.
 
 ## Multi-pass investigation
 
